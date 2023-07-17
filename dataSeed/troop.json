@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Barbarian",
+        "UserId": 1,
+        "type": "mele",
+        "space": 1,
+        "imageUrl": "https://w7.pngwing.com/pngs/423/762/png-transparent-clash-of-clans-barbarian-illustration-clash-of-clans-clash-royale-barbarian-clash-of-clans-game-image-file-formats-hand.png"
+    },
+    {
+        "name": "Archer",
+        "UserId": 1,
+        "type": "range",
+        "space": 1,
+        "imageUrl": "https://w7.pngwing.com/pngs/742/645/png-transparent-clash-of-clans-archer-illustration-clash-of-clans-clash-royale-game-clash-of-clans-video-game-fictional-character-desktop-wallpaper-thumbnail.png"
+    },
+    {
+        "name": "Giant",
+        "UserId": 1,
+        "type": "mele",
+        "space": 5,
+        "imageUrl": "https://w7.pngwing.com/pngs/528/500/png-transparent-clash-of-clans-giant-character-clash-of-clans-clash-royale-giant-clash-of-clans-s-game-hand-arm.png"
+    },
+    {
+        "name": "Goblin",
+        "UserId": 1,
+        "type": "mele",
+        "space": 1,
+        "imageUrl": "https://w7.pngwing.com/pngs/131/761/png-transparent-clash-of-clans-green-goblin-clash-royale-ghoul-clash-of-clans.png"
+    },
+    {
+        "name": "Wall Breaker",
+        "UserId": 1,
+        "type": "mele",
+        "space": 2,
+        "imageUrl": "https://w7.pngwing.com/pngs/727/544/png-transparent-skeleton-carrying-bomb-3d-illustration-clash-of-clans-clash-royale-wall-game-clash-game-barbarian-video-thumbnail.png"
+    },
+    {
+        "name": "Wizard",
+        "UserId": 1,
+        "type": "range",
+        "space": 4,
+        "imageUrl": "https://w7.pngwing.com/pngs/308/382/png-transparent-clash-of-clans-clash-royale-gems-clash-descent-road-to-legend-android-clash-of-clans-video-game-electric-blue-elixir-thumbnail.png"
+    },
+    {
+        "name": "Healer",
+        "UserId": 1,
+        "type": "range",
+        "space": 14,
+        "imageUrl": "https://www.pngfind.com/pngs/m/149-1496786_clash-of-clans-healer-png-healer-coc-level.png"
+    },
+    {
+        "name": "Dragon",
+        "UserId": 1,
+        "type": "range",
+        "space": 20,
+        "imageUrl": "https://w7.pngwing.com/pngs/426/565/png-transparent-clash-of-clans-dragon-game-infant-elixir-coc-purple-troop-fictional-character-thumbnail.png"
+    },
+    {
+        "name": "P.E.K.K.A.",
+        "UserId": 1,
+        "type": "mele",
+        "space": 25,
+        "imageUrl": "https://w7.pngwing.com/pngs/627/493/png-transparent-clash-of-clans-clash-royale-boom-beach-android-clash-of-clans-boom-beach-elixir-pekka-thumbnail.png"
+    },
+    {
+        "name": "Baby Dragon",
+        "UserId": 1,
+        "type": "range",
+        "space": 10,
+        "imageUrl": "https://w7.pngwing.com/pngs/483/723/png-transparent-clash-of-clans-clash-royale-infant-dragon-game-clash-of-clans-child-video-game-fictional-character-thumbnail.png"
+    },
+    {
+        "name": "Miner",
+        "UserId": 1,
+        "type": "mele",
+        "space": 6,
+        "imageUrl": "https://w7.pngwing.com/pngs/515/669/png-transparent-clash-of-clans-clash-royale-miner-building-strategy-clash-of-clans-grass-troop-architectural-structure-thumbnail.png"
+    },
+    {
+        "name": "Electro Dragon",
+        "UserId": 1,
+        "type": "range",
+        "space": 30,
+        "imageUrl": "https://static.wikia.nocookie.net/clashofclans/images/1/16/Electro_Dragon1.png/revision/latest/scale-to-width-down/250?cb=20180608132416"
+    },
+    {
+        "name": "Yeti",
+        "UserId": 1,
+        "type": "mele",
+        "space": 18,
+        "imageUrl": "https://coc.guide/static/imgs/og/troop/yeti.png"
+    },
+    {
+        "name": "Minion",
+        "UserId": 1,
+        "type": "range",
+        "space": 2,
+        "imageUrl": "https://static.wikia.nocookie.net/clashofclans/images/a/a4/Minion_info.png/revision/latest?cb=20170927231119"
+    },
+    {
+        "name": "Hog Rider",
+        "UserId": 1,
+        "type": "mele",
+        "space": 5,
+        "imageUrl": "https://static.wikia.nocookie.net/clashofclans/images/8/84/Hog_rider.jpg/revision/latest?cb=20140711085735"
+    }
+]
